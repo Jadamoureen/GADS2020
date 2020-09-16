@@ -8,10 +8,15 @@ These courses introduce you to the comprehensive and flexible infrastructure and
 3. Elastic Cloud Infrastructure: Scaling and Automation
 
 **LAB 1: Getting started with cloud marketplace**
+
 -step 1: (Google Cloud console)[https://console.cloud.google.com]
+
 -step 2 : login with your account
+
 -step 3 : Create project in your cloud console dashboard
+
 -step 4 : launch the cloud shell or Open a terminal window
+
 In this lab, you use Cloud Marketplace to quickly and easily deploy a LAMP stack on a Compute Engine instance. The Bitnami LAMP Stack provides a complete web development environment for Linux that can be launched in one click.
 
 For more information on the Bitnami LAMP stack, see (Bitnami LAMP Stack Documentation)[https://docs.bitnami.com/google/infrastructure/lamp/].
