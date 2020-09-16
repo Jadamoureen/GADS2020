@@ -2,8 +2,11 @@
 # Essential Cloud Infrastructure: Foundation
 These courses introduce you to the comprehensive and flexible infrastructure and platform services provided by Google Cloud Platform (GCP), with a focus on Compute Engine:
 1. Essential Cloud Infrastructure: Foundation (this course)
+
 2. Essential Cloud Infrastructure: Core Services
+
 3. Elastic Cloud Infrastructure: Scaling and Automation
+
 **LAB 1: Getting started with cloud marketplace**
 -step 1: (Google Cloud console)[https://console.cloud.google.com]
 -step 2 : login with your account
@@ -60,9 +63,11 @@ In the just-created SSH window, to change the current working directory to /opt/
 8.Open a new browser tab.
 
 9.Type the following URL, and replace SITE_ADDRESS with the URL in the Site address field in the right pane of the lampstack page.
+
 (lampstack)[http://SITE_ADDRESS/phpinfo.php]
 
 The URL from the lab was as follows;
+
 (lampstack)[http://35.226.195.168/phpinfo.php]
 
 10.A summary of the PHP configuration of your server is displayed.
